@@ -26,4 +26,4 @@ while True:
 
 # Étude par xql.dev
 
-<h1>Love AI & math</h1>
+<p>Love AI & Math</p>
